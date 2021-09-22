@@ -1,0 +1,175 @@
+ *{
+    font-family: 'Dosis', sans-serif;
+ }
+ 
+ #title .navbar, .row,  #cta {
+    background-color: #ed4866;
+    padding-top: 50px;
+     }
+ #title .navbar, .row  {
+
+
+padding-left: 200px;
+padding-right: 75px;
+
+ }
+
+ #title h1{
+     font-size: 50px;
+font-weight: bold ;
+ }
+ #title .nav-link{
+     color: rgb(247, 175, 209);
+     font-size: 20px;
+     font-weight: bold;
+   
+ }
+
+ #title .nav-item{
+     margin-left: 30px;
+
+ }
+
+/* !important ;
+color: white  !important;
+display: flex !important;
+justify-content: space-between !important;
+} 
+
+#title .navbar  .collapse{
+    display: flex !important;
+    align-content: flex-end  !important;
+    } */ 
+
+.title-item #item {
+    font-size: 60px;
+    font-weight: bold;
+    
+    
+}
+
+.title-item button{
+    margin-top: 40px;
+    margin-right: 20px;
+    width: 150px;
+    height: 50px;
+    font-size: 25px;
+}
+    .row col{
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        align-items: center;
+    }
+
+    .row  img{
+        transform: rotate(30deg);
+        width: 50%;
+    }
+
+    #features{
+        margin: 100px;
+       
+    }
+    #features .icons{
+        margin: 50px;
+        
+       
+    }
+    #features p{
+        font-size: 20px;
+        font-weight: bold;
+        color: rgb(147, 143, 143);
+        text-align: center;
+       
+    }
+
+    #testimonials{
+        background-color: rgb(226, 113, 113);
+        padding: 100px 200px 100px 200px;
+    }
+
+    .carrossel-div h2, em{
+        font-size: 50px;
+        text-align: center;
+        font-weight: bold;
+        color: white;
+    }
+
+    .carrossel-div em{
+       
+        font-size: 20px;
+    }
+    .carrossel-div img{
+        padding-top: 20px;
+       width: 200px;
+    }
+    #press{
+        background-color: rgb(226, 113, 113);
+        padding: 40px 200px 100px 200px;
+    }
+    #press img{
+        
+        width: 22%;
+    }
+
+    #pricing .principal-h2{
+        font-size: 50px;
+        font-weight: bold;
+        padding-top: 100px;
+    }
+
+    #pricing .principal-p{
+        font-size: 20px;
+        font-weight: bold;
+       color: rgb(147, 143, 143); 
+    }
+    #pricing .cards{
+    margin: 70px 100px 150px 100px;
+    }
+    #pricing .card{
+        width: 340px;
+       
+    }
+    .card-header h3, h2{
+        font-weight: bold;
+    }
+    
+    .card-body p{
+        font-weight: bold;
+        color: rgb(147, 143, 143) ;
+        font-size: 20px;
+    }
+    .card-body button{
+        width: 100%;
+        font-weight: bolder;
+    }
+#cta{
+    padding: 100px 200px 100px 200px;
+}
+#cta h3{
+    font-size: 60px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+#cta button{
+    margin-top: 70px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 150px;
+    
+}
+
+#footer{
+    margin:150px
+}
+#footer p{
+    color: rgb(147, 143, 143) ;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+#footer .icon img{
+    margin: 10px;
+}
